@@ -75,7 +75,3 @@ This part extends the basic escape challenge by adding treasure collection objec
 
 ## Getting Started
 To run the program, clone the repository and execute the main script with sample inputs to see results for both parts of the challenge.
-
-## License
-This project is licensed under the MIT License.
-```
